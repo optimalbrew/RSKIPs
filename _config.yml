@@ -18,8 +18,8 @@ description: >-
   RSK Improvement Proposals (RSKIPs) describe standards for the RSK
   platform, including core protocol specifications, client APIs, and contract
   standards.
-url: "https://ips.rsk.co"
-github_username:  rsksmart
+url: "optimalbew.github.io/rskips"
+github_username:  optimalbrew
 
 header_pages:
  - all.html
